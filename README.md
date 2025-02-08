@@ -1,5 +1,7 @@
 # need-you-to-undelete-my-FILE
 
+This is a project given in CS202 class by Professor Tang at NYU.
+This project demonstrates my ability to understand the internals of the FAT32 file system and key file system concepts, access and recover files from a raw disk.
 
 
 
